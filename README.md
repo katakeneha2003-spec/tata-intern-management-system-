@@ -51,12 +51,4 @@ tata-intern-management-system/
 └── SETUP_GUIDE.md
 ```
 
-## Demo credentials (created by the seed script)
 
-| Role   | Email                                         | Password      |
-|--------|------------------------------------------------|---------------|
-| Admin  | admin@tatamotors-ims.com                       | Admin@12345   |
-| Mentor | rahul.deshmukh@tatamotors-ims.com              | Mentor@123    |
-| Intern | aditya.kulkarni@intern.tatamotors-ims.com      | Intern@123    |
-
-Change these immediately if you deploy this anywhere beyond your own machine.
