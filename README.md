@@ -2,7 +2,7 @@
 
 A full-stack MERN application that centralizes the internship lifecycle — onboarding, department/mentor allocation, project assignment, task tracking, attendance, weekly reports, performance evaluations, document management and notifications — for three roles: **Admin/HR**, **Mentor**, and **Intern**.
 
-> This is a portfolio project inspired by real internship workflows. It is not an official Tata Motors internal system.
+
 
 **Read [`SETUP_GUIDE.md`](./SETUP_GUIDE.md) for exact, step-by-step instructions** (which command to type, where to click, what to paste) to get this running from zero.
 
