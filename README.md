@@ -4,7 +4,7 @@ A full-stack MERN application that centralizes the internship lifecycle — onbo
 
 
 
-**Read [`SETUP_GUIDE.md`](./SETUP_GUIDE.md) for exact, step-by-step instructions** (which command to type, where to click, what to paste) to get this running from zero.
+
 
 ## Stack
 
